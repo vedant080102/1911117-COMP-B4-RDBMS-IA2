@@ -29,6 +29,24 @@ Libnum
 You can run the code in any IDE
 But you need to modify the details (config) for the MySQL database that you would be using.
 
+The MySQL structured procedure used for updating the cipher text in the database:
+```
+DROP PROCEDURE IF EXISTS updateTable;
+delimiter &&
+
+CREATE PROCEDURE updateTable(IN c1 integer, c2 integer, c00 integer, c01 integer)
+begin
+	UPDATE `homomor_encyptiondb`.`table1`
+		SET `col1` = c1,
+			`col2` = c2
+		WHERE `col1`= c00
+			AND `col2` = c01;
+
+end &&
+
+delimiter ;
+```
+
 ---
 
 - ### WHAT TO DO AFTER RUNNING THE CODE:
