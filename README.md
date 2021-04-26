@@ -14,6 +14,7 @@ Algorithms used here are rsa and paillier homomorphic encryption.
 
 
 ### IMPORTANT LIBRARIES TO BE INSTALLED:
+Libnum
 ```
   pip install libnum
  ```
