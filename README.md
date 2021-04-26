@@ -12,14 +12,19 @@ Aim of the project is to realize the fully homomorphic encryption to a certain e
 Algorithms used here are rsa and paillier homomorphic encryption.
 
 
-Important libraries to be installed:
+
+IMPORTANT LIBRARIES TO BE INSTALLED:
 ```
   pip install libnum
  ```
 
+
+
 INSTRUCTIONS:
 You can run the code in any IDE
 But you need to modify the details (config) for the MySQL database that you would be using.
+
+
 
 WHAT TO DO AFTER RUNNING THE CODE:
 
