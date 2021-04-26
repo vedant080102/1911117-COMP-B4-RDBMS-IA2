@@ -9,14 +9,14 @@
 ***
 
 - ### WHAT IS DONE IN THIS PROJECT:
----
+----
 Aim of the project is to realize the fully homomorphic encryption to a certain extent. By combining the additive and multilpicative homomorphic encryption
 Algorithms used here are rsa and paillier homomorphic encryption.
 
 
 
 - ### IMPORTANT LIBRARIES TO BE INSTALLED:
----
+----
 Libnum
 ```
   pip install libnum
