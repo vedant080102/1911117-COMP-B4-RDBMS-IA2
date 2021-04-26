@@ -13,7 +13,7 @@ Algorithms used here are rsa and paillier homomorphic encryption.
 
 
 
-### - IMPORTANT LIBRARIES TO BE INSTALLED:
+- ### IMPORTANT LIBRARIES TO BE INSTALLED:
 Libnum
 ```
   pip install libnum
@@ -21,13 +21,13 @@ Libnum
 
 
 
-### - INSTRUCTIONS:
+- ### INSTRUCTIONS:
 You can run the code in any IDE
 But you need to modify the details (config) for the MySQL database that you would be using.
 
 
 
-### - WHAT TO DO AFTER RUNNING THE CODE:
+- ### WHAT TO DO AFTER RUNNING THE CODE:
 
   You must input whatever choice you wish from the options provided.
   First of all inserting data would be recommended
