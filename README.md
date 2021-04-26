@@ -38,4 +38,4 @@ But you need to modify the details (config) for the MySQL database that you woul
   Then there are two other options tha you can choose those are the two queries for which the execution time and functionalities are checked.
 
 ***
-** THANK YOU! **
+**THANK YOU!**
