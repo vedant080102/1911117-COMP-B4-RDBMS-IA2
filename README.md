@@ -7,8 +7,9 @@ Faculty name: PRADNYA BHANGALE and VAIBHAV VASANI
 College name: KJ SOMAIYA COLLEGE OF ENGINEERING
 
 WHAT IS DONE IN THIS PROJECT:
-AIM OF THE PROJECT IS TO REALIZE THE FULLY HOMOMORPHIC ENCRYPTION TO A CERTAIN EXTENT. BY COMBINING THE ADDITIVE AND MULTILPICATIVE HOMOMORPHIC ENCRYPTION
-ALGORITHMS USED HERE ARE RSA AND PAILLIER HOMOMORPHIC ENCRYPTION.
+Aim of the project is to realize the fully homomorphic encryption to a certain extent. By combining the additive and multilpicative homomorphic encryption
+Algorithms used here are rsa and paillier homomorphic encryption.
+
 
 Important libraries to be installed:
 ```
