@@ -29,6 +29,19 @@ Libnum
 You can run the code in any IDE
 But you need to modify the details (config) for the MySQL database that you would be using.
 
+Database:
+```
+CREATE database homomor_encyptionDB;
+CREATE TABLE `homomor_encyptionDB`.`table1` (
+  `col1` INT NOT NULL,
+  `col2` INT NOT NULL);
+
+CREATE database plain_text;
+
+CREATE TABLE `plain_text`.`table1` (
+  `col1` INT NOT NULL,
+  `col2` INT NOT NULL);
+```
 The MySQL structured procedure used for updating the cipher text in the database:
 ```
 DROP PROCEDURE IF EXISTS updateTable;
