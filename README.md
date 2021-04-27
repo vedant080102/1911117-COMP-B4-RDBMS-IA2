@@ -37,8 +37,8 @@ CREATE database plain_text;
 CREATE TABLE `plain_text`.`table1` (
   `col1` INT NOT NULL,
   `col2` INT NOT NULL);
-
-
+```
+```
 -- ciphertext database
 CREATE database homomor_encyptionDB;
 
