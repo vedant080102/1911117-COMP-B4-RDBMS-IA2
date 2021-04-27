@@ -29,7 +29,7 @@ Libnum
 You can run the code in any IDE
 But you need to modify the details (config) for the MySQL database that you would be using.
 
-Database:
+Query for creating the database:
 ```
 -- plain text database
 CREATE database plain_text;
